@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mySimpleCalc", "mySimpleCalc\mySimpleCalc.vcxproj", "{603F3A8C-595C-43E5-9598-50D11F7B6A84}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleTest", "GoogleTest\GoogleTest.vcxproj", "{ED7DE232-12F1-4951-8A73-DCA28F880651}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testMyCalc", "testMyCalc\testMyCalc.vcxproj", "{8FE90F50-93D5-491B-B271-899634BC691A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603F3A8C-595C-43E5-9598-50D11F7B6A84}.Debug|Win32.ActiveCfg = Debug|Win32
+		{603F3A8C-595C-43E5-9598-50D11F7B6A84}.Debug|Win32.Build.0 = Debug|Win32
+		{603F3A8C-595C-43E5-9598-50D11F7B6A84}.Release|Win32.ActiveCfg = Release|Win32
+		{603F3A8C-595C-43E5-9598-50D11F7B6A84}.Release|Win32.Build.0 = Release|Win32
+		{ED7DE232-12F1-4951-8A73-DCA28F880651}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED7DE232-12F1-4951-8A73-DCA28F880651}.Debug|Win32.Build.0 = Debug|Win32
+		{ED7DE232-12F1-4951-8A73-DCA28F880651}.Release|Win32.ActiveCfg = Release|Win32
+		{ED7DE232-12F1-4951-8A73-DCA28F880651}.Release|Win32.Build.0 = Release|Win32
+		{8FE90F50-93D5-491B-B271-899634BC691A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8FE90F50-93D5-491B-B271-899634BC691A}.Debug|Win32.Build.0 = Debug|Win32
+		{8FE90F50-93D5-491B-B271-899634BC691A}.Release|Win32.ActiveCfg = Release|Win32
+		{8FE90F50-93D5-491B-B271-899634BC691A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
